@@ -1,0 +1,1 @@
+add_library(dog dog.h dog.cpp)
